@@ -2,6 +2,11 @@
 
 Rol bazlı yetkilendirme ile çalışan, depo giriş-çıkış işlemlerini yöneten stok yönetim uygulaması.
 
+## Canlı Adresler
+
+- **Backend API:** https://uvw-case.onrender.com
+- **Frontend:** https://uvw-case-365l.vercel.app/
+
 ## Kullanılan Teknolojiler
 
 ### Backend
